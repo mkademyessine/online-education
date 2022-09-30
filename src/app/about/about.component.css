@@ -1,0 +1,19 @@
+.container{
+    width:600px;
+    color:white;
+    font-weight:bold;
+    text-align:justify;
+    background:black;
+    opacity:80%;
+    padding:20px;
+    
+}
+
+.about{
+    background:url(../../assets/back.jpg);
+    height:90vh;
+    background-position:center;
+    background-size:cover;
+    opacity:0.5;
+    padding-top:100px;
+}
